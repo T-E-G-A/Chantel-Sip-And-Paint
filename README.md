@@ -1,7 +1,7 @@
 
 # Chantel Sip and Paint
 
-This repository contains the source code for the "Chantel Sip and Paint" website. It showcases various Sip and Paint events and packages, featuring a dynamic homepage, detailed services, special offers, and a contact form. Built with HTML, CSS, and JavaScript, and enhanced with Swiper.js and Font Awesome.
+This repository contains the source code for the "Chantel Sip and Paint" website I made. It showcases various Sip and Paint events and packages, featuring a dynamic homepage, detailed services, special offers, and a contact form. Built with HTML, CSS, and JavaScript, and enhanced with Swiper.js and Font Awesome.
 
 ## Table of Contents
 
