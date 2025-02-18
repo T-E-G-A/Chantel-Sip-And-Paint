@@ -57,3 +57,7 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 For any inquiries or questions, please contact:
 - Email: edwardoviasogie@gmail.com
+
+## License
+
+-MIT License
